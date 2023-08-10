@@ -18,5 +18,4 @@ input look like? How would this complexity change if you generated permutations
 randomly without memory instead of systematically trying them?
 
 Describe your reasoning and the conclusion you've come to. Your reasoning is the
-most important part. You do not need to prove that the invariant is correct. Add
-your answer to this markdown file.
+most important part. Add your answer to this markdown file.
