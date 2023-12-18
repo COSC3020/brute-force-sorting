@@ -8,7 +8,8 @@ some basic testing code that uses [jsverify](https://jsverify.github.io/) in
 `code.test.js`.
 
 The return value should be the number of permutations that were tried until the
-sorted list was "discovered".
+sorted list was "discovered". The unsorted list passed as an argument should be
+sorted, i.e. do not copy the list and sort the copy.
 
 ## Runtime Analysis
 
