@@ -1,3 +1,4 @@
-// eslint-disable-next-line no-unused-varsfunction permutationSort(a) {
+// eslint-disable-next-line no-unused-vars
+function permutationSort(a) {
     return 0;
 }
